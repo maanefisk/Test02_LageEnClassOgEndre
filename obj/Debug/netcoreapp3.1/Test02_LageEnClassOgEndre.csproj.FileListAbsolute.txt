@@ -1,0 +1,13 @@
+E:\Work\_Modul3\Test02_LageEnClassOgEndre\Test02_LageEnClassOgEndre\bin\Debug\netcoreapp3.1\Test02_LageEnClassOgEndre.exe
+E:\Work\_Modul3\Test02_LageEnClassOgEndre\Test02_LageEnClassOgEndre\bin\Debug\netcoreapp3.1\Test02_LageEnClassOgEndre.deps.json
+E:\Work\_Modul3\Test02_LageEnClassOgEndre\Test02_LageEnClassOgEndre\bin\Debug\netcoreapp3.1\Test02_LageEnClassOgEndre.runtimeconfig.json
+E:\Work\_Modul3\Test02_LageEnClassOgEndre\Test02_LageEnClassOgEndre\bin\Debug\netcoreapp3.1\Test02_LageEnClassOgEndre.runtimeconfig.dev.json
+E:\Work\_Modul3\Test02_LageEnClassOgEndre\Test02_LageEnClassOgEndre\bin\Debug\netcoreapp3.1\Test02_LageEnClassOgEndre.dll
+E:\Work\_Modul3\Test02_LageEnClassOgEndre\Test02_LageEnClassOgEndre\bin\Debug\netcoreapp3.1\Test02_LageEnClassOgEndre.pdb
+E:\Work\_Modul3\Test02_LageEnClassOgEndre\Test02_LageEnClassOgEndre\obj\Debug\netcoreapp3.1\Test02_LageEnClassOgEndre.csprojAssemblyReference.cache
+E:\Work\_Modul3\Test02_LageEnClassOgEndre\Test02_LageEnClassOgEndre\obj\Debug\netcoreapp3.1\Test02_LageEnClassOgEndre.AssemblyInfoInputs.cache
+E:\Work\_Modul3\Test02_LageEnClassOgEndre\Test02_LageEnClassOgEndre\obj\Debug\netcoreapp3.1\Test02_LageEnClassOgEndre.AssemblyInfo.cs
+E:\Work\_Modul3\Test02_LageEnClassOgEndre\Test02_LageEnClassOgEndre\obj\Debug\netcoreapp3.1\Test02_LageEnClassOgEndre.csproj.CoreCompileInputs.cache
+E:\Work\_Modul3\Test02_LageEnClassOgEndre\Test02_LageEnClassOgEndre\obj\Debug\netcoreapp3.1\Test02_LageEnClassOgEndre.dll
+E:\Work\_Modul3\Test02_LageEnClassOgEndre\Test02_LageEnClassOgEndre\obj\Debug\netcoreapp3.1\Test02_LageEnClassOgEndre.pdb
+E:\Work\_Modul3\Test02_LageEnClassOgEndre\Test02_LageEnClassOgEndre\obj\Debug\netcoreapp3.1\Test02_LageEnClassOgEndre.genruntimeconfig.cache
